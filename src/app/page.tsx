@@ -6,7 +6,6 @@ import { ProductCard } from "@/components/product-card";
 import { TopNav } from "@/components/top-nav";
 import { Button } from "@/components/ui/button";
 import Image from "next/image";
-import { PromotionalSections } from "@/components/promotional-sections";
 
 export default function Home() {
   return (
